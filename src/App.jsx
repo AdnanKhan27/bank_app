@@ -10,7 +10,7 @@ const App = () => (
       </div>
     </div>
     
-    <div className={`${styles.paddingX} ${styles.flexCenter}`}>
+    <div className={`pr-0 sm:px-16,pr-16 ${styles.flexCenter}`}>
       <div className={`${styles.boxWidth}`}>
         <Hero />
       </div>
